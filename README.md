@@ -36,7 +36,14 @@ The app allows users keep track of their notes in simple manner.
 This project is under [MIT](https://opensource.org/licenses/MIT) license.
 
 ##  Screenshots
+<img width="1270" alt="week 11 1" src="https://github.com/Yung-Shin/week11_express_notetaker/assets/123918265/822f825a-95b3-4578-b0d8-760ae1cffa94">
+Adding a new note
 
+<img width="1277" alt="week 11 2" src="https://github.com/Yung-Shin/week11_express_notetaker/assets/123918265/e4bc504d-1004-4907-9bdc-cc27b190eaf5">
+New note Added
+
+<img width="1276" alt="week 11 3" src="https://github.com/Yung-Shin/week11_express_notetaker/assets/123918265/08183024-06ab-4e0c-ac5f-2818e279dc4b">
+Deleted a note called "Final Testing"
 
 ## Questions
 If you have any questions, please contact me via email: ineeus2@gmail.com
